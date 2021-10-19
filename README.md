@@ -20,10 +20,10 @@ Get: https://server-deployment-main-pract.herokuapp.com/repeat
 
 ## Talk about your routes
 
-Path: /repeat
-responds with the last string used in post route /talk.
-HTTP POST
+Path: /repeat  
+responds with the last string used in post route /talk.  
+HTTP POST  
 
-Path: /talk
-Accepts a string.
-responds with a string in all caps.
+Path: /talk  
+Accepts a string.  
+responds with a string in all caps.  
