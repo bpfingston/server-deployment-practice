@@ -10,10 +10,10 @@ npm i { jest, express, dotenv, supertest }
 Setting up, installing, and testing the server. Making sure that the server communicating requests, and passing tests.  
 ## Links to application deployment  
 
-Post: https://server-deployment-main-pract.herokuapp.com/talk  
-Get: https://server-deployment-main-pract.herokuapp.com/repeat  
-Heroku: https://server-deployment-main-pract.herokuapp.com/  
 Githut: https://github.com/bpfingston/server-deployment-practice  
+Heroku: https://server-deployment-main-pract.herokuapp.com/  
+Post: https://server-deployment-main-pract.herokuapp.com/talk  
+Get: https://server-deployment-main-pract.herokuapp.com/repeat 
   
 ## Include embedded UML
 ![embedded UML](./images/devpath.png)
